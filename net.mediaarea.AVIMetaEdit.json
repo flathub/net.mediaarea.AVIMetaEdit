@@ -1,7 +1,7 @@
 {
   "app-id": "net.mediaarea.AVIMetaEdit",
   "runtime": "org.kde.Platform",
-  "runtime-version": "5.12",
+  "runtime-version": "5.15",
   "sdk": "org.kde.Sdk",
   "command": "avimetaedit-gui",
   "rename-desktop-file": "avimetaedit-gui.desktop",
